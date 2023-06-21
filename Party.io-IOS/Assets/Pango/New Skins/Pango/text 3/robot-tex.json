@@ -1,0 +1,154 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "govde": {
+            "shader": "Main shader"
+        },
+        "phong11": {
+            "shader": "Main shader"
+        },
+        "phong12": {
+            "shader": "Main shader"
+        },
+        "phong13": {
+            "shader": "Main shader"
+        },
+        "phong15": {
+            "shader": "Main shader"
+        },
+        "phong2": {
+            "shader": "Main shader"
+        },
+        "phong24": {
+            "shader": "Main shader"
+        },
+        "phong27": {
+            "shader": "Main shader"
+        },
+        "phong29": {
+            "shader": "Main shader"
+        },
+        "phong3": {
+            "shader": "Main shader"
+        },
+        "phong4": {
+            "shader": "Main shader"
+        },
+        "phong46": {
+            "shader": "Main shader"
+        },
+        "phong47": {
+            "shader": "Main shader"
+        },
+        "phong48": {
+            "shader": "Main shader"
+        },
+        "phong49": {
+            "shader": "Main shader"
+        },
+        "phong5": {
+            "shader": "Main shader"
+        },
+        "phong50": {
+            "shader": "Main shader"
+        },
+        "phong51": {
+            "shader": "Main shader"
+        },
+        "phong52": {
+            "shader": "Main shader"
+        },
+        "phong53": {
+            "shader": "Main shader"
+        },
+        "phong54": {
+            "shader": "Main shader"
+        },
+        "phong55": {
+            "shader": "Main shader"
+        },
+        "phong56": {
+            "shader": "Main shader"
+        },
+        "phong57": {
+            "shader": "Main shader"
+        },
+        "phong59": {
+            "shader": "Main shader"
+        },
+        "phong6": {
+            "shader": "Main shader"
+        },
+        "phong69": {
+            "shader": "Main shader"
+        },
+        "phong7": {
+            "shader": "Main shader"
+        },
+        "phong70": {
+            "shader": "Main shader"
+        },
+        "phong75": {
+            "shader": "Main shader"
+        },
+        "phong76": {
+            "shader": "Main shader"
+        },
+        "phong77": {
+            "shader": "Main shader"
+        },
+        "phong78": {
+            "shader": "Main shader"
+        },
+        "phong8": {
+            "shader": "Main shader"
+        },
+        "phong81": {
+            "shader": "Main shader"
+        },
+        "phong83": {
+            "shader": "Main shader"
+        },
+        "phong84": {
+            "shader": "Main shader"
+        },
+        "phong9": {
+            "shader": "Main shader"
+        },
+        "phongE1": {
+            "shader": "Main shader"
+        }
+    }
+}

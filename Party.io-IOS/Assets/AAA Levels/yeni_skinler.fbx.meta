@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 167e657bd9bba4cf3b4b47a81606b13e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: adamReferans12
+    100002: adamReferansORJ2
+    100004: adamReferansORJ3
+    100006: adamReferansORJ5
+    100008: as
+    100010: aslanMaske
+    100012: ayi
+    100014: beyzbol1
+    100016: beyzbol2
+    100018: biyik
+    100020: bob
+    100022: Chucky2
+    100024: diksac
+    100026: disagrisi
+    100028: faulsakal
+    100030: fotersapka
+    100032: inekMaske
+    100034: joint1
+    100036: joint1 1
+    100038: joint10
+    100040: joint11
+    100042: joint12
+    100044: joint13
+    100046: joint14
+    100048: joint15
+    100050: joint16
+    100052: joint17
+    100054: joint18
+    100056: joint19
+    100058: joint2
+    100060: joint2 1
+    100062: joint20
+    100064: joint21
+    100066: joint22
+    100068: joint23
+    100070: joint3
+    100072: joint3 1
+    100074: joint4
+    100076: joint4 1
+    100078: joint5
+    100080: joint5 1
+    100082: joint6
+    100084: joint6 1
+    100086: joint7
+    100088: joint8
+    100090: joint9
+    100092: kafasarili
+    100094: kolband
+    100096: kolband1
+    100098: kolband2
+    100100: kolband3
+    100102: kolband4
+    100104: kurukafaMaske
+    100106: maskee
+    100108: rabbit
+    100110: rabbit 1
+    100112: saat
+    100114: sac
+    100116: sac 1
+    100118: sac0
+    100120: sac00
+    100122: sac000
+    100124: sac1
+    100126: sakal
+    100128: sakal 1
+    100130: sakal2
+    100132: sakal4
+    100134: sakal5
+    100136: sakall
+    100138: sakall1
+    100140: sapkaa
+    100142: sihirbazsapka
+    100144: yaka
+    100146: yarabandi
+    100148: //RootNode
+    100150: yeniskinler_sac1
+    100152: yeniskinler_sac2
+    100154: yumruk
+    100156: yumruk1
+    400000: adamReferans12
+    400002: adamReferansORJ2
+    400004: adamReferansORJ3
+    400006: adamReferansORJ5
+    400008: as
+    400010: aslanMaske
+    400012: ayi
+    400014: beyzbol1
+    400016: beyzbol2
+    400018: biyik
+    400020: bob
+    400022: Chucky2
+    400024: diksac
+    400026: disagrisi
+    400028: faulsakal
+    400030: fotersapka
+    400032: inekMaske
+    400034: joint1
+    400036: joint1 1
+    400038: joint10
+    400040: joint11
+    400042: joint12
+    400044: joint13
+    400046: joint14
+    400048: joint15
+    400050: joint16
+    400052: joint17
+    400054: joint18
+    400056: joint19
+    400058: joint2
+    400060: joint2 1
+    400062: joint20
+    400064: joint21
+    400066: joint22
+    400068: joint23
+    400070: joint3
+    400072: joint3 1
+    400074: joint4
+    400076: joint4 1
+    400078: joint5
+    400080: joint5 1
+    400082: joint6
+    400084: joint6 1
+    400086: joint7
+    400088: joint8
+    400090: joint9
+    400092: kafasarili
+    400094: kolband
+    400096: kolband1
+    400098: kolband2
+    400100: kolband3
+    400102: kolband4
+    400104: kurukafaMaske
+    400106: maskee
+    400108: rabbit
+    400110: rabbit 1
+    400112: saat
+    400114: sac
+    400116: sac 1
+    400118: sac0
+    400120: sac00
+    400122: sac000
+    400124: sac1
+    400126: sakal
+    400128: sakal 1
+    400130: sakal2
+    400132: sakal4
+    400134: sakal5
+    400136: sakall
+    400138: sakall1
+    400140: sapkaa
+    400142: sihirbazsapka
+    400144: yaka
+    400146: yarabandi
+    400148: //RootNode
+    400150: yeniskinler_sac1
+    400152: yeniskinler_sac2
+    400154: yumruk
+    400156: yumruk1
+    2100000: "yeniskinler_ali2_v3_v2_v2_karakter_yap\u0131yoruz_lambert2"
+    2100002: lambert1
+    2100004: lambert45
+    2100006: lambert20
+    2100008: lambert46
+    2100010: lambert19
+    2100012: lambert28
+    2100014: lambert39
+    2100016: lambert37
+    2100018: lambert40
+    2100020: lambert38
+    2100022: lambert41
+    2100024: lambert35
+    2100026: lambert42
+    2100028: lambert43
+    2100030: lambert24
+    2100032: lambert32
+    2100034: lambert29
+    2100036: lambert18
+    2100038: lambert16
+    2100040: lambert17
+    2100042: lambert44
+    2100044: lambert21
+    2100046: lambert25
+    2100048: lambert36
+    2100050: lambert27
+    2100052: lambert22
+    2100054: "yeniskinler_ali2_v3_v2_v2_karakter_yap\u0131yoruz_lambert3"
+    2100056: "yeniskinler_ali2_v3_v2_v2_karakter_yap\u0131yoruz_lambert4"
+    2100058: lambert47
+    2100060: lambert31
+    2100062: lambert5
+    2100064: lambert26
+    2100066: lambert34
+    2100068: lambert33
+    2100070: lambert30
+    2100072: lambert11
+    2100074: lambert8
+    2100076: lambert9
+    2100078: lambert10
+    2100080: lambert15
+    2100082: lambert23
+    2100084: lambert49
+    2100086: lambert50
+    2100088: lambert51
+    2300000: adamReferans12
+    2300002: adamReferansORJ2
+    2300004: adamReferansORJ3
+    2300006: aslanMaske
+    2300008: ayi
+    2300010: beyzbol1
+    2300012: beyzbol2
+    2300014: biyik
+    2300016: bob
+    2300018: Chucky2
+    2300020: diksac
+    2300022: disagrisi
+    2300024: faulsakal
+    2300026: fotersapka
+    2300028: inekMaske
+    2300030: kafasarili
+    2300032: kolband
+    2300034: kolband1
+    2300036: kolband2
+    2300038: kolband3
+    2300040: kolband4
+    2300042: kurukafaMaske
+    2300044: maskee
+    2300046: saat
+    2300048: sac
+    2300050: sac0
+    2300052: sac00
+    2300054: sac000
+    2300056: sakal2
+    2300058: sakal4
+    2300060: sapkaa
+    2300062: sihirbazsapka
+    2300064: yaka
+    2300066: yarabandi
+    2300068: yeniskinler_sac1
+    2300070: yeniskinler_sac2
+    2300072: yumruk
+    2300074: yumruk1
+    3300000: adamReferans12
+    3300002: adamReferansORJ2
+    3300004: adamReferansORJ3
+    3300006: aslanMaske
+    3300008: ayi
+    3300010: beyzbol1
+    3300012: beyzbol2
+    3300014: biyik
+    3300016: bob
+    3300018: Chucky2
+    3300020: diksac
+    3300022: disagrisi
+    3300024: faulsakal
+    3300026: fotersapka
+    3300028: inekMaske
+    3300030: kafasarili
+    3300032: kolband
+    3300034: kolband1
+    3300036: kolband2
+    3300038: kolband3
+    3300040: kolband4
+    3300042: kurukafaMaske
+    3300044: maskee
+    3300046: saat
+    3300048: sac
+    3300050: sac0
+    3300052: sac00
+    3300054: sac000
+    3300056: sakal2
+    3300058: sakal4
+    3300060: sapkaa
+    3300062: sihirbazsapka
+    3300064: yaka
+    3300066: yarabandi
+    3300068: yeniskinler_sac1
+    3300070: yeniskinler_sac2
+    3300072: yumruk
+    3300074: yumruk1
+    4300000: sac
+    4300002: yaka
+    4300004: yeniskinler_sac1
+    4300006: yeniskinler_sac2
+    4300008: sac
+    4300010: kolband3
+    4300012: yumruk
+    4300014: kolband2
+    4300016: kolband1
+    4300018: kolband
+    4300020: disagrisi
+    4300022: yarabandi
+    4300024: saat
+    4300026: faulsakal
+    4300028: sac000
+    4300030: sac00
+    4300032: yumruk1
+    4300034: sac0
+    4300036: bob
+    4300038: adamReferans12
+    4300040: aslanMaske
+    4300042: diksac
+    4300044: beyzbol1
+    4300046: kurukafaMaske
+    4300048: adamReferansORJ2
+    4300050: beyzbol2
+    4300052: adamReferansORJ3
+    4300054: kafasarili
+    4300056: ayi
+    4300058: rabbit
+    4300060: sihirbazsapka
+    4300062: fotersapka
+    4300064: sapkaa
+    4300066: maskee
+    4300068: inekMaske
+    4300070: kolband4
+    4300072: Chucky2
+    4300074: sakal
+    4300076: adamReferansORJ5
+    4300078: sakal2
+    4300080: sakal4
+    4300082: sakal5
+    4300084: biyik
+    9500000: //RootNode
+    13700000: adamReferansORJ5
+    13700002: rabbit 1
+    13700004: sac 1
+    13700006: sakal 1
+    13700008: sakal5
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

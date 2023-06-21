@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 112879dfa3fbf4c8eb064d7b857c0140
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: GOVDE
+    100002: goz
+    100004: "goz_band\u0131"
+    100006: KAFA
+    100008: katana
+    100010: mano_derecha
+    100012: mano_izquierda
+    100014: //RootNode
+    100016: polySurface37
+    100018: polySurface40
+    100020: polySurface42
+    100022: rig_govde
+    100024: SAG_AYAK
+    100026: SAG_BACAK
+    100028: "SAG_B\u0130LEK"
+    100030: SAG_KOL
+    100032: SOL_AYAK
+    100034: SOL_BACAK
+    100036: "SOL_B\u0130LEK"
+    100038: SOL_KOL
+    100040: VUCUT
+    400000: GOVDE
+    400002: goz
+    400004: "goz_band\u0131"
+    400006: KAFA
+    400008: katana
+    400010: mano_derecha
+    400012: mano_izquierda
+    400014: //RootNode
+    400016: polySurface37
+    400018: polySurface40
+    400020: polySurface42
+    400022: rig_govde
+    400024: SAG_AYAK
+    400026: SAG_BACAK
+    400028: "SAG_B\u0130LEK"
+    400030: SAG_KOL
+    400032: SOL_AYAK
+    400034: SOL_BACAK
+    400036: "SOL_B\u0130LEK"
+    400038: SOL_KOL
+    400040: VUCUT
+    2100000: lambert10
+    2100002: lambert9
+    2100004: lambert68
+    2100006: lambert62
+    2100008: lambert4
+    2100010: phong2
+    2100012: phong1
+    2100014: lambert3
+    2100016: lambert2
+    2100018: lambert78
+    2300000: goz
+    2300002: "goz_band\u0131"
+    2300004: katana
+    2300006: "SAG_B\u0130LEK"
+    2300008: "SOL_B\u0130LEK"
+    3300000: goz
+    3300002: "goz_band\u0131"
+    3300004: katana
+    3300006: "SAG_B\u0130LEK"
+    3300008: "SOL_B\u0130LEK"
+    4300000: goz
+    4300002: "goz_band\u0131"
+    4300004: "SAG_B\u0130LEK"
+    4300006: "SOL_B\u0130LEK"
+    4300008: katana
+    4300010: polySurface42
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface42
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

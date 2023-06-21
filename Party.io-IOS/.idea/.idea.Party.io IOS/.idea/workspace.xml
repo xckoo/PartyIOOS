@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87db7394-b08d-45b7-87ba-e0467aa42b04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Documents/2019.3.14f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnlockedSceneMax.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/DailySpinDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/GiveCoin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/YeniKiyafetSecim.cs" />
+        <option value="$PROJECT_DIR$/Assets/SiralamaCostume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/unlocked_character.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnlockedSceneMax.cs" />
+        <option value="$PROJECT_DIR$/Assets/gökhantest.cs" />
+        <option value="$PROJECT_DIR$/Assets/WheelTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/Purchaser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/CoinManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/WheelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/CostumeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/siralama_manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pango/Scripts/GameManager_A.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gj2wjXDDrUqMoIyGiXA4XQJIcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992685" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87db7394-b08d-45b7-87ba-e0467aa42b04" name="Default Changelist" comment="" />
+      <created>1598613935161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598613935161</updated>
+      <workItem from="1598613945876" duration="1523000" />
+      <workItem from="1598883268172" duration="817000" />
+      <workItem from="1598954953737" duration="657000" />
+      <workItem from="1599037232816" duration="9638000" />
+      <workItem from="1599122632082" duration="1535000" />
+      <workItem from="1599126963343" duration="9751000" />
+      <workItem from="1599209047851" duration="8827000" />
+      <workItem from="1599324106575" duration="783000" />
+      <workItem from="1599348676704" duration="860000" />
+      <workItem from="1599349573281" duration="88000" />
+      <workItem from="1599657433061" duration="2680000" />
+      <workItem from="1599685617351" duration="2544000" />
+      <workItem from="1599731428887" duration="3902000" />
+      <workItem from="1599819596116" duration="3339000" />
+      <workItem from="1600090321839" duration="1644000" />
+      <workItem from="1600246754744" duration="2755000" />
+      <workItem from="1600330528303" duration="1295000" />
+      <workItem from="1600346220194" duration="425000" />
+      <workItem from="1600354256514" duration="1744000" />
+      <workItem from="1600727897940" duration="1693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="289" key="GridCell.Tab.0.bottom" timestamp="1600272335657">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335657" />
+    <state width="1398" height="289" key="GridCell.Tab.0.center" timestamp="1600272335656">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335656" />
+    <state width="1398" height="289" key="GridCell.Tab.0.left" timestamp="1600272335656">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335656" />
+    <state width="1398" height="289" key="GridCell.Tab.0.right" timestamp="1600272335657">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335657" />
+    <state width="1398" height="289" key="GridCell.Tab.1.bottom" timestamp="1600272335658">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335658" />
+    <state width="1398" height="289" key="GridCell.Tab.1.center" timestamp="1600272335658">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335658" />
+    <state width="1398" height="289" key="GridCell.Tab.1.left" timestamp="1600272335657">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335657" />
+    <state width="1398" height="289" key="GridCell.Tab.1.right" timestamp="1600272335658">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335658" />
+    <state width="1398" height="289" key="GridCell.Tab.2.bottom" timestamp="1600272335660">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.2.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335660" />
+    <state width="1398" height="289" key="GridCell.Tab.2.center" timestamp="1600272335659">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.2.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335659" />
+    <state width="1398" height="289" key="GridCell.Tab.2.left" timestamp="1600272335659">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.2.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335659" />
+    <state width="1398" height="289" key="GridCell.Tab.2.right" timestamp="1600272335659">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335659" />
+    <state width="1398" height="289" key="GridCell.Tab.3.bottom" timestamp="1600272335661">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.3.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335661" />
+    <state width="1398" height="289" key="GridCell.Tab.3.center" timestamp="1600272335661">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.3.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335661" />
+    <state width="1398" height="289" key="GridCell.Tab.3.left" timestamp="1600272335660">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.3.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335660" />
+    <state width="1398" height="289" key="GridCell.Tab.3.right" timestamp="1600272335661">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="289" key="GridCell.Tab.3.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1600272335661" />
+    <state x="1739" y="117" key="SettingsEditor" timestamp="1599215649539">
+      <screen x="1440" y="23" width="1920" height="999" />
+    </state>
+    <state x="1702" y="120" key="SettingsEditor/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1599052940349" />
+    <state x="1739" y="122" key="SettingsEditor/1440.23.1920.1057/0.23.1440.819@1440.23.1920.1057" timestamp="1599209100117" />
+    <state x="1739" y="117" key="SettingsEditor/1440.23.1920.999/0.23.1440.877@1440.23.1920.999" timestamp="1599215649539" />
+    <state x="1935" y="36" width="1054" height="800" key="dock-window-1" timestamp="1599059798556">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1935" y="36" width="1054" height="800" key="dock-window-1/1440.23.1920.1057/0.23.1440.819@1440.23.1920.1057" timestamp="1599059798556" />
+    <state x="469" y="72" width="843" height="688" key="find.popup" timestamp="1600730197994">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="469" y="72" width="843" height="688" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1600730197994" />
+    <state x="2042" y="102" width="1124" height="888" key="find.popup/1440.23.1920.1057/0.23.1440.819@1440.23.1920.1057" timestamp="1600354489161" />
+    <state x="469" y="76" width="842" height="735" key="find.popup/1440.23.1920.999/0.23.1440.877@0.23.1440.877" timestamp="1599138462706" />
+    <state x="2065" y="83" width="1123" height="838" key="find.popup/1440.23.1920.999/0.23.1440.877@1440.23.1920.999" timestamp="1599216169199" />
+    <state x="383" y="163" width="672" height="678" key="search.everywhere.popup" timestamp="1599130551351">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="383" y="163" width="672" height="678" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1599130551351" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Pango/Scripts/CoinManager.cs</url>
+          <line>217</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Pango/Scripts/CoinManager.cs" initialLine="212">
+            <startOffsets>
+              <option value="6585" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6615" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

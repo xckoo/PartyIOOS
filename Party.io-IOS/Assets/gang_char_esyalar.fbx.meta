@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: d7d3945bfdb0a8d429cc936cd99be65e
+timeCreated: 1539175042
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: as_2
+    100002: bandana
+    100004: biyik
+    100006: biyik_
+    100008: burun
+    100010: //RootNode
+    100012: goz
+    100014: gozz
+    100016: gzlk
+    100018: kas
+    100020: kep
+    100022: kravat
+    100024: papyon
+    100026: pelerin
+    100028: sac
+    100030: sakal_2
+    400000: as_2
+    400002: bandana
+    400004: biyik
+    400006: biyik_
+    400008: burun
+    400010: //RootNode
+    400012: goz
+    400014: gozz
+    400016: gzlk
+    400018: kas
+    400020: kep
+    400022: kravat
+    400024: papyon
+    400026: pelerin
+    400028: sac
+    400030: sakal_2
+    2100000: lambert8
+    2100002: lambert6
+    2100004: lambert9
+    2100006: lambert4
+    2100008: lambert3
+    2100010: v3_v2_v2_v_v_lambert3
+    2300000: as_2
+    2300002: bandana
+    2300004: biyik
+    2300006: biyik_
+    2300008: burun
+    2300010: goz
+    2300012: gozz
+    2300014: gzlk
+    2300016: kas
+    2300018: kep
+    2300020: kravat
+    2300022: papyon
+    2300024: pelerin
+    2300026: sac
+    2300028: sakal_2
+    3300000: as_2
+    3300002: bandana
+    3300004: biyik
+    3300006: biyik_
+    3300008: burun
+    3300010: goz
+    3300012: gozz
+    3300014: gzlk
+    3300016: kas
+    3300018: kep
+    3300020: kravat
+    3300022: papyon
+    3300024: pelerin
+    3300026: sac
+    3300028: sakal_2
+    4300000: goz
+    4300002: gozz
+    4300004: kas
+    4300006: bandana
+    4300008: kep
+    4300010: biyik_
+    4300012: gzlk
+    4300014: burun
+    4300016: biyik
+    4300018: sakal_2
+    4300020: sac
+    4300022: as_2
+    4300024: pelerin
+    4300026: kravat
+    4300028: papyon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

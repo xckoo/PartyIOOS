@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc0ba1b5ef6b4a6b9dd53d7eadfea16, type: 3}
+  m_Name: AppLovinSettings
+  m_EditorClassIdentifier: 
+  qualityServiceEnabled: 1
+  sdkKey: cHgLnnoKECUB17AIy93T68opMr-9z0yZIdv3OhOdutpw_-Dx8GUFPG2m61v32sdKTXNtDmV6dJ0cHETQV1fvIi
+  setAttributionReportEndpoint: 0
+  consentFlowEnabled: 1
+  consentFlowPrivacyPolicyUrl: https://www.pangogames.com
+  consentFlowTermsOfServiceUrl: 
+  userTrackingUsageDescriptionEn: This uses info for less annoying, more relevant
+    ads
+  userTrackingUsageLocalizationEnabled: 0
+  userTrackingUsageDescriptionDe: 
+  userTrackingUsageDescriptionEs: 
+  userTrackingUsageDescriptionFr: 
+  userTrackingUsageDescriptionJa: 
+  userTrackingUsageDescriptionKo: 
+  userTrackingUsageDescriptionZhHans: 
+  userTrackingUsageDescriptionZhHant: 
+  adMobAndroidAppId: 
+  adMobIosAppId: ca-app-pub-2224840466010179~2241333961

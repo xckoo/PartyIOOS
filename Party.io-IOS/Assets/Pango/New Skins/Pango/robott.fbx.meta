@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 4ae1f01bc9ddc4479941094e5b16b82b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: govde3
+    100002: govde_ustu
+    100004: kask
+    100006: kemer
+    100008: //RootNode
+    100010: roket1
+    100012: sag_bileklik
+    100014: sag_bot
+    100016: sag_kolluk
+    100018: sag_omuz
+    100020: sol_bileklik
+    100022: sol_bot
+    100024: sol_kolluk
+    100026: sol_omuz
+    400000: govde3
+    400002: govde_ustu
+    400004: kask
+    400006: kemer
+    400008: //RootNode
+    400010: roket1
+    400012: sag_bileklik
+    400014: sag_bot
+    400016: sag_kolluk
+    400018: sag_omuz
+    400020: sol_bileklik
+    400022: sol_bot
+    400024: sol_kolluk
+    400026: sol_omuz
+    2100000: phong4
+    2100002: phong56
+    2100004: phong2
+    2100006: phong29
+    2100008: phong27
+    2100010: phong3
+    2100012: phong57
+    2100014: phong59
+    2100016: phong6
+    2100018: phong47
+    2100020: phong15
+    2100022: phong49
+    2100024: phong7
+    2100026: phong8
+    2100028: phong13
+    2100030: phong50
+    2100032: phong48
+    2100034: phong11
+    2100036: phong12
+    2100038: phong5
+    2100040: phong46
+    2100042: phongE1
+    2100044: phong69
+    2100046: phong75
+    2100048: phong70
+    2100050: phong77
+    2100052: phong76
+    2100054: phong24
+    2100056: phong9
+    2100058: phong51
+    2100060: phong83
+    2100062: phong81
+    2100064: phong78
+    2100066: phong84
+    2100068: phong55
+    2100070: phong53
+    2100072: phong54
+    2100074: phong52
+    2300000: govde3
+    2300002: govde_ustu
+    2300004: kask
+    2300006: kemer
+    2300008: roket1
+    2300010: sag_bileklik
+    2300012: sag_bot
+    2300014: sag_kolluk
+    2300016: sag_omuz
+    2300018: sol_bileklik
+    2300020: sol_bot
+    2300022: sol_kolluk
+    2300024: sol_omuz
+    3300000: govde3
+    3300002: govde_ustu
+    3300004: kask
+    3300006: kemer
+    3300008: roket1
+    3300010: sag_bileklik
+    3300012: sag_bot
+    3300014: sag_kolluk
+    3300016: sag_omuz
+    3300018: sol_bileklik
+    3300020: sol_bot
+    3300022: sol_kolluk
+    3300024: sol_omuz
+    4300000: kask
+    4300002: sol_omuz
+    4300004: sag_omuz
+    4300006: sag_kolluk
+    4300008: sol_kolluk
+    4300010: sol_bileklik
+    4300012: sag_bileklik
+    4300014: govde3
+    4300016: sag_bot
+    4300018: sol_bot
+    4300020: govde_ustu
+    4300022: roket1
+    4300024: kemer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

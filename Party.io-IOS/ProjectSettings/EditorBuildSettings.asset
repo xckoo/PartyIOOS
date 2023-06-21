@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AAA Levels/Bina.unity
+    guid: 6a78a51898e844b24824d3efbd59a786
+  - enabled: 1
+    path: Assets/AAA Levels/lvl8.unity
+    guid: 1e46721178ffd4af89725ea395e3068e
+  - enabled: 1
+    path: Assets/AAA Levels/yenilvl3.unity
+    guid: dee637cdae3a244989c0751dc80cba8b
+  - enabled: 1
+    path: Assets/AAA Levels/lvl10.unity
+    guid: d3fa34eedc30c4f70b86cec1d58d04f8
+  - enabled: 1
+    path: Assets/AAA Levels/insaat.unity
+    guid: fedb8cd5bb0424c2bb7b2478f67da6f6
+  - enabled: 1
+    path: Assets/AAA Levels/Gemi.unity
+    guid: 1059e79c37001418f80f42119d1f8795
+  - enabled: 1
+    path: Assets/AAA Levels/yenilvl5.unity
+    guid: e274bfaaf72da47a88e6163cbcda6ab0
+  - enabled: 1
+    path: Assets/AAA Levels/yenilvl6.unity
+    guid: bb4f672175d194824b428fea9aa327c3
+  - enabled: 1
+    path: Assets/AAA Levels/yenilvl7.unity
+    guid: fd61cc8cb17b14948a00057d3a7836d7
+  - enabled: 1
+    path: Assets/AAA Levels/kayarbolum.unity
+    guid: 457222aeaf4ca41b4bd6df7ed2c41d7d
+  - enabled: 1
+    path: Assets/AAA Levels/yenilvl4-yeni.unity
+    guid: 54ffff205d76447489aa0627b4af27a9
+  - enabled: 1
+    path: Assets/AAA Levels/winc.unity
+    guid: 7e4aef76834c641f6b102f520f26ff9d
+  - enabled: 1
+    path: Assets/AAA Levels/yuvarlak.unity
+    guid: b18778cae008e4be5964759954572be4
+  - enabled: 1
+    path: Assets/AAA Levels/Degirmen.unity
+    guid: 98ddb64445cef42ca82bf6dfc1c1b90a
+  - enabled: 1
+    path: Assets/AAA Levels/siralama.unity
+    guid: 4c70b9afbfa4b462c8780a2e5dfde623
+  - enabled: 1
+    path: Assets/AAA Levels/unlocked.unity
+    guid: f953998b01b5a498197b3e5bda2eba47
+  m_configObjects: {}

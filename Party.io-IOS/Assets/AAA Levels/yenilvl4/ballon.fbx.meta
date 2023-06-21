@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0c57337823f414456ada45b0e32c7392
+timeCreated: 1542447349
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface146
+    100004: polySurface156
+    100006: polySurface172
+    100008: polySurface176
+    100010: polySurface177
+    100012: polySurface178
+    100014: polySurface183
+    100016: polySurface188
+    100018: polySurface193
+    100020: polySurface197
+    400000: //RootNode
+    400002: polySurface146
+    400004: polySurface156
+    400006: polySurface172
+    400008: polySurface176
+    400010: polySurface177
+    400012: polySurface178
+    400014: polySurface183
+    400016: polySurface188
+    400018: polySurface193
+    400020: polySurface197
+    2100000: lambert28
+    2100002: lambert14
+    2100004: lambert13
+    2100006: lambert5
+    2100008: lambert12
+    2100010: lambert11
+    2100012: lambert10
+    2100014: lambert9
+    2100016: lambert8
+    2100018: lambert7
+    2100020: lambert6
+    2100022: lambert25
+    2100024: lambert29
+    2100026: lambert26
+    2100028: lambert27
+    2300000: //RootNode
+    2300002: polySurface146
+    2300004: polySurface156
+    2300006: polySurface172
+    2300008: polySurface176
+    2300010: polySurface177
+    2300012: polySurface178
+    2300014: polySurface183
+    2300016: polySurface188
+    2300018: polySurface193
+    2300020: polySurface197
+    3300000: //RootNode
+    3300002: polySurface146
+    3300004: polySurface156
+    3300006: polySurface172
+    3300008: polySurface176
+    3300010: polySurface177
+    3300012: polySurface178
+    3300014: polySurface183
+    3300016: polySurface188
+    3300018: polySurface193
+    3300020: polySurface197
+    4300000: polySurface141
+    4300002: polySurface176
+    4300004: polySurface177
+    4300006: polySurface172
+    4300008: polySurface156
+    4300010: polySurface146
+    4300012: polySurface197
+    4300014: polySurface193
+    4300016: polySurface188
+    4300018: polySurface183
+    4300020: polySurface178
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 0b0f3db3e2a894193a630e9b73b94089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: 07258fffb516a4c98ac692c9f1bf0369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: e2624386def27411191865512cda757a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 248270106d75f4e9783ae7e7b4ccf303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 229be164b85194b7f860f37c61d85351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert25
+    second: {fileID: 2100000, guid: 40894b3855755439599c45c7aced14e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: 87d9f6c9709094392a3dec2f263658f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert27
+    second: {fileID: 2100000, guid: 00fc8f5311ff44f429d9ddbb53d67d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert28
+    second: {fileID: 2100000, guid: 88dc3cecb54d941c7b946b8399470f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert29
+    second: {fileID: 2100000, guid: 9b0c96a5040044bd1ad37a59b4e42880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 99fb8a6b8d2344880ab47f1e4a59a7fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 70f54b969454343f3aa75be3544d047c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 77635fe05ef58423191f9ef99b811486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: a507a60e609f74550a9a2bfcc40e542c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 02dfb8fa9d6074834aa0af524878f50d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

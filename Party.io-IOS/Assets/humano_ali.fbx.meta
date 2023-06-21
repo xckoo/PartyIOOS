@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 0caf22c50405ae94491ca31f9518d864
+timeCreated: 1538387926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brazo_derecho
+    100002: Brazo_izquierdo
+    100004: Cabeza
+    100006: Cadera
+    100008: //RootNode
+    100010: man
+    100012: mano_derecha
+    100014: mano_izquierda
+    100016: Pecho
+    100018: pie_derecho
+    100020: pie_izquierdo
+    100022: Pierna_derecha
+    100024: Pierna_izquierda
+    100026: ss_s_Brazo_derecho
+    100028: ss_s_Brazo_izquierdo
+    100030: ss_s_Cabeza
+    100032: ss_s_Cadera
+    100034: ss_s_man
+    100036: ss_s_mano_derecha
+    100038: ss_s_mano_izquierda
+    100040: ss_s_Pecho
+    100042: ss_s_pie_derecho
+    100044: ss_s_pie_izquierdo
+    100046: ss_s_Pierna_derecha
+    100048: ss_s_Pierna_izquierda
+    100050: pSphere5
+    100052: UNKNOWN_REF_NODE_fosterParent1
+    100054: charV06
+    400000: Brazo_derecho
+    400002: Brazo_izquierdo
+    400004: Cabeza
+    400006: Cadera
+    400008: //RootNode
+    400010: man
+    400012: mano_derecha
+    400014: mano_izquierda
+    400016: Pecho
+    400018: pie_derecho
+    400020: pie_izquierdo
+    400022: Pierna_derecha
+    400024: Pierna_izquierda
+    400026: ss_s_Brazo_derecho
+    400028: ss_s_Brazo_izquierdo
+    400030: ss_s_Cabeza
+    400032: ss_s_Cadera
+    400034: ss_s_man
+    400036: ss_s_mano_derecha
+    400038: ss_s_mano_izquierda
+    400040: ss_s_Pecho
+    400042: ss_s_pie_derecho
+    400044: ss_s_pie_izquierdo
+    400046: ss_s_Pierna_derecha
+    400048: ss_s_Pierna_izquierda
+    400050: pSphere5
+    400052: UNKNOWN_REF_NODE_fosterParent1
+    400054: charV06
+    2100000: lambert2
+    2100002: ss_s_lambert2
+    2100004: s_lambert2
+    2100006: lambert8
+    2100008: lambert7
+    2100010: lambert10
+    2100012: lambert5
+    2100014: lambert6
+    2100016: lambert9
+    2100018: lambert13
+    2100020: lambert14
+    2100022: lambert15
+    2100024: sil_lambert63
+    2100026: lambert3
+    4300000: man
+    4300002: ss_s_man
+    4300004: pSphere5
+    9500000: //RootNode
+    13700000: man
+    13700002: ss_s_man
+    13700004: pSphere5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

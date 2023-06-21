@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: e05d1de21d20c4d8b9a0b06b5e1b8365
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: dudak
+    100002: etek
+    100004: giysi
+    100006: //RootNode
+    100008: "kad\u0131n_burnu"
+    100010: "kad\u0131n_karakter_1:sac0"
+    100012: kaslar
+    100014: sag_goz
+    100016: sol_goz
+    400000: dudak
+    400002: etek
+    400004: giysi
+    400006: //RootNode
+    400008: "kad\u0131n_burnu"
+    400010: "kad\u0131n_karakter_1:sac0"
+    400012: kaslar
+    400014: sag_goz
+    400016: sol_goz
+    2100000: "kad\u0131n_karakter_1_lambert98"
+    2100002: "kad\u0131n_karakter_1_lambert96"
+    2100004: lambert2
+    2100006: "kad\u0131n_karakter_1_lambert13"
+    2100008: "kad\u0131n_karakter_1_lambert95"
+    2100010: "kad\u0131n_karakter_1_lambert93"
+    2100012: "kad\u0131n_karakter_1_lambert92"
+    2100014: "kad\u0131n_karakter_1_lambert90"
+    2100016: "kad\u0131n_karakter_1_lambert17"
+    2300000: dudak
+    2300002: etek
+    2300004: giysi
+    2300006: "kad\u0131n_burnu"
+    2300008: "kad\u0131n_karakter_1:sac0"
+    2300010: kaslar
+    2300012: sag_goz
+    2300014: sol_goz
+    3300000: dudak
+    3300002: etek
+    3300004: giysi
+    3300006: "kad\u0131n_burnu"
+    3300008: "kad\u0131n_karakter_1:sac0"
+    3300010: kaslar
+    3300012: sag_goz
+    3300014: sol_goz
+    4300000: etek
+    4300002: giysi
+    4300004: "kad\u0131n_burnu"
+    4300006: kaslar
+    4300008: "kad\u0131n_karakter_1:sac0"
+    4300010: dudak
+    4300012: sol_goz
+    4300014: sag_goz
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

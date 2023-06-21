@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1074061028746584}
+  m_IsPrefabParent: 1
+--- !u!1 &1074061028746584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4370405989020560}
+  - component: {fileID: 114571004448915286}
+  m_Layer: 0
+  m_Name: OyunZorlasmaDegerleri
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4370405989020560
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1074061028746584}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.9549723, y: 9.547156, z: -16.626802}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114571004448915286
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1074061028746584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc62471c85d6c314fa0de8fb41488001, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  YapayZeklarBayilmaDegerler:
+  - 150
+  - 200
+  - 240
+  - 300
+  - 310
+  - 320
+  - 250
+  - 300
+  - 350
+  - 360
+  - 370
+  - 380
+  - 400
+  - 430
+  - 300
+  - 320
+  - 400
+  - 410
+  - 430
+  - 450
+  - 470
+  - 400
+  - 450
+  - 480
+  - 480
+  PlayerKalkisDegerier:
+  - 5.5
+  - 5.6
+  - 5.7
+  - 5.8
+  - 5.9
+  - 6
+  - 5.5
+  - 5.6
+  - 5.7
+  - 5.8
+  - 6.1
+  - 6.2
+  - 6.3
+  - 6.4
+  - 6.5
+  - 6.6
+  - 6.8
+  - 6.9
+  - 6.5
+  - 6.6
+  - 6.7
+  - 6.8
+  - 6.9
+  - 7
+  - 7.1
+  AiVurusMultipliers:
+  - 0.8
+  - 0.85
+  - 0.9
+  - 0.95
+  - 1
+  - 1.1
+  - 1.2
+  - 1.3
+  - 1.4
+  - 1
+  - 1.2
+  - 1.4
+  - 1.6
+  - 1.7
+  - 1.7
+  - 1.3
+  - 1.4
+  - 1.5
+  - 1.6
+  - 1.5
+  - 1.6
+  - 1.6
+  - 1.6
+  - 1.6
+  - 1.6
