@@ -1811,12 +1811,7 @@ public class GameManager_A : MonoBehaviour
                 man.GetComponent<SkinnedMeshRenderer>().material = blackWhite;
                 eyes.SetActive(false);
                 break;
-            case 11:
-            case 12:
-            case 14:
-            case 22:
-            case 25:
-            case 26:
+          
             case 30:
                 man.GetComponent<SkinnedMeshRenderer>().material = adam_renk;
                 eyes.SetActive(false);
