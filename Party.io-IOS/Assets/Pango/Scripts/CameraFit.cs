@@ -310,6 +310,8 @@ public class CameraFit : MonoBehaviour
 
     public void Update()
     {
+
+        if (LevelManager.I.isPlacementPhase) return;
         if ((_cameraPrevPixelWidth != _aspectCamera.pixelWidth) || (_cameraPrevPixelHeight != _aspectCamera.pixelHeight))
         {
             _cameraPrevPixelWidth = _aspectCamera.pixelWidth;

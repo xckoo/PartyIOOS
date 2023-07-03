@@ -16,14 +16,22 @@ public class Kamera_A : MonoBehaviour {
 	void Start ()
 	{
        // player = player.transform.roo.GetChild(1).gameObject;
+       SetThis();
+	}
+
+	public void SetThis()
+	{
 		transform.position = initialCameraPoint.position;
 		transform.rotation = initialCameraPoint.rotation;
 		offset = transform.position - player.transform.position;
 		offset2 = transform.position - kamera_ilk.transform.position;
 	}
 	bool oncet=true;
-	void LateUpdate (){
-	
+	void LateUpdate ()
+	{
+
+		if (LevelManager.I.isPlacementPhase) return;
+		
 		if (!GameManager_A.gameManager.score.transform.parent.gameObject.activeSelf && oncet) {
 //			Debug.Log ("baslangicccccccccccccccc");
 			transform.position = new Vector3(kamera_ilk.transform.position.x,kamera_ilk.transform.position.y+18,kamera_ilk.transform.position.z-25);
@@ -37,6 +45,8 @@ public class Kamera_A : MonoBehaviour {
 
 	void FixedUpdate ()
 	{
+		if (LevelManager.I.isPlacementPhase) return;
+
 		 if (son && GameManager_A.gameManager.listedPlayers[0]!=null  ){
 			transform.position = Vector3.Lerp(transform.position,GameManager_A.gameManager.listedPlayers[0].transform.position + new Vector3 (0, 3f, -7.6f),Time.deltaTime*2);
 			transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler (-3, 0, 0),Time.deltaTime*2);

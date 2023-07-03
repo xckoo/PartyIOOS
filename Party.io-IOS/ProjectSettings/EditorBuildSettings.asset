@@ -48,7 +48,7 @@ EditorBuildSettings:
     path: Assets/AAA Levels/Degirmen.unity
     guid: 98ddb64445cef42ca82bf6dfc1c1b90a
   - enabled: 1
-    path: Assets/AAA Levels/siralama.unity
+    path: Assets/Pango/Murto/levels/siralama.unity
     guid: 4c70b9afbfa4b462c8780a2e5dfde623
   - enabled: 1
     path: Assets/AAA Levels/unlocked.unity

@@ -139,8 +139,10 @@ public class GameManager_A : MonoBehaviour
 
     CoinManager coinManager;
 
+    public static GameManager_A I;
     void Awake()
     {
+        I = this;
         MaxSdk.SetSdkKey("cHgLnnoKECUB17AIy93T68opMr-9z0yZIdv3OhOdutpw_-Dx8GUFPG2m61v32sdKTXNtDmV6dJ0cHETQV1fvIi");
         MaxSdk.InitializeSdk();
 
