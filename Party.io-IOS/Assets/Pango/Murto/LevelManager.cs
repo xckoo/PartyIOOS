@@ -24,7 +24,9 @@ public class LevelManager : MonoBehaviour
     public bool isPlacementPhase;
 
     public GameObject unlockedSkin;
-    
+
+    public GameObject gameEndPanel;
+        
     public Transform placementTransform;   
     
     public GameObject placementObject;
@@ -58,7 +60,20 @@ public class LevelManager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("unlocked")<37)
         {
-            
+            if (PlayerPrefs.GetInt("Level") < 14)
+            {
+                levelIndex = PlayerPrefs.GetInt("Level");
+                levelIndex++;
+                SetLevel();
+            }
+           
+            else
+            {
+                int rnd2 = UnityEngine.Random.Range(0, 14);
+                PlayerPrefs.SetInt("Level", rnd2);
+                levelIndex = PlayerPrefs.GetInt("Level");
+                SetLevel();
+            }
         }
         else
         {
@@ -81,11 +96,23 @@ public class LevelManager : MonoBehaviour
 
     public void OpenPlacement()
     {
+        gameEndPanel.SetActive(false);
         isPlacementPhase = true;
         currentlevel.gameObject.SetActive(false);
         placementObject.SetActive(true);
         mainCamera.GetComponent<Rigidbody>().isKinematic = true;
         mainCamera.transform.DOMove(placementTransform.position, 0.25f).SetEase(Ease.InFlash);
+
+
+    }
+
+
+    public void OpenUnlockedSkin()
+    {
+        unlockedSkin.SetActive(true);
+        placementObject.SetActive(false);
+        currentlevel.gameObject.SetActive(false);
+        isPlacementPhase = false;
 
 
     }

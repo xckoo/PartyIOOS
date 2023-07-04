@@ -121,15 +121,22 @@ public class UnlockedSceneMax : MonoBehaviour
     }
 
     public void LoadScene()
+    
     {
-        if (PlayerPrefs.GetInt("Level") < 14)
-            SceneManager.LoadScene(PlayerPrefs.GetInt("Level"));
-        else
-        {
-            int rnd2 = UnityEngine.Random.Range(0, 14);
-            PlayerPrefs.SetInt("Level", rnd2);
-            SceneManager.LoadScene(PlayerPrefs.GetInt("Level"));
-        }
+        LevelManager.I.NextLevel();
+        
+        // if (PlayerPrefs.GetInt("Level") < 14)
+        // {
+        //     // SceneManager.LoadScene(PlayerPrefs.GetInt("Level"));
+        //     
+        //
+        // }
+        // else
+        // {
+        //     // int rnd2 = UnityEngine.Random.Range(0, 14);
+        //     // PlayerPrefs.SetInt("Level", rnd2);
+        //     LevelManager.I.NextLevel();
+        // }
 
 
         _gc.isUnlocked = true;

@@ -3496,12 +3496,18 @@ public class PlayerController_A : MonoBehaviour
 
     public void Kaldir2()
     {
+        if (!gameObject.activeInHierarchy) return;
+
         if (!kaldiririyor)
             StartCoroutine(_Kaldir2());
     }
+    
+    
     IEnumerator _Kaldir2()
     {
-        float timer = 0;
+            
+    
+      float timer = 0;
         //kaldiririyor = true;
         while (timer <= 0.1f)
         {

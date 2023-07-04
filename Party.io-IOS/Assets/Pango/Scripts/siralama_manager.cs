@@ -239,7 +239,8 @@ public class siralama_manager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("unlocked")<37)
         {
-            SceneManager.LoadScene(15);
+            LevelManager.I.OpenUnlockedSkin();
+            // SceneManager.LoadScene(15);
         }
         else
         {
