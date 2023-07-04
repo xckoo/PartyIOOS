@@ -123,6 +123,8 @@ public class UnlockedSceneMax : MonoBehaviour
     public void LoadScene()
     
     {
+        LevelManager.I.CloseEverything();
+
         LevelManager.I.NextLevel();
         
         // if (PlayerPrefs.GetInt("Level") < 14)

@@ -106,7 +106,16 @@ public class LevelManager : MonoBehaviour
 
     }
 
-
+    public void CloseEverything()
+    {
+        unlockedSkin.SetActive(false);
+        placementObject.SetActive(false);
+        
+        currentlevel.gameObject.SetActive(false);
+        
+        isPlacementPhase = false;
+        
+    }
     public void OpenUnlockedSkin()
     {
         unlockedSkin.SetActive(true);
